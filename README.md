@@ -98,4 +98,4 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helmercap11&layout=compact)<br/>
-![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=helmercap11&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helmercap11&show_icons=true&theme=synthwave)
