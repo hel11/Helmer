@@ -38,12 +38,16 @@
 </a> 
 
 
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-</a> 
-<br/>
+
 
 <a href="https://flutter.dev/" target="_blank"> 
 <img src="https://img.icons8.com/color/2x/flutter.png" alt="flutter" width="40" height="40"/> 
+</a> 
+<a href="https://developer.android.com/studio" target="_blank"> 
+<img src="https://img.icons8.com/nolan/2x/android-os.png" alt="android" width="40" height="40"/> 
+</a> 
+<a href="https://kotlinlang.org/" target="_blank"> 
+<img src="https://img.icons8.com/color/2x/kotlin.png" alt="kotlin" width="40" height="40"/> 
 </a> 
 <br/>
 
@@ -53,6 +57,9 @@
 
 <a href="https://www.php.net" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+</a> 
+<a href="https://www.java.com/pt-BR/" target="_blank"> 
+<img src="https://img.icons8.com/nolan/2x/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> 
 </a> 
 
 <a href="https://laravel.com/" target="_blank"> 
