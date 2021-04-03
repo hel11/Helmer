@@ -46,6 +46,9 @@
 <a href="https://developer.android.com/studio" target="_blank"> 
 <img src="https://img.icons8.com/nolan/2x/android-os.png" alt="android" width="40" height="40"/> 
 </a> 
+<a href="https://dart.dev/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="dart" width="40" height="40"/> 
+</a> 
 <a href="https://kotlinlang.org/" target="_blank"> 
 <img src="https://img.icons8.com/color/2x/kotlin.png" alt="kotlin" width="40" height="40"/> 
 </a> 
