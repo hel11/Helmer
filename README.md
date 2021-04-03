@@ -38,7 +38,7 @@
 </a> 
 
 
-<br>
+<br><br>
 
 <a href="https://flutter.dev/" target="_blank"> 
 <img src="https://img.icons8.com/color/2x/flutter.png" alt="flutter" width="40" height="40"/> 
@@ -49,7 +49,7 @@
 <a href="https://kotlinlang.org/" target="_blank"> 
 <img src="https://img.icons8.com/color/2x/kotlin.png" alt="kotlin" width="40" height="40"/> 
 </a> 
-<br/>
+<br/><br>
 
 <a href="https://nodejs.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
